@@ -1,5 +1,5 @@
-# GTTS-Runner
-Google Text-To-Speech Runner
+# TTS-Runner
+Text-To-Speech Runner that contains various Models.
 
 Platform: Google Colab
 
